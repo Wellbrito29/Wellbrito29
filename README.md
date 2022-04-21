@@ -17,6 +17,8 @@ React Native Developer
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
+![Snake animation](https://github.com/Wellbrito29/Wellbrito29/blob/output/github-contribution-grid-snake.svg)
+
 
 ### Socials
 
