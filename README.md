@@ -13,43 +13,57 @@
   <a href="https://www.linkedin.com/in/wellington-nascimento-de-brito-657720143"><img src="https://img.shields.io/badge/LinkedIn-Wellington_Brito-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@well33488"><img src="https://img.shields.io/badge/Medium-@well33488-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="mailto:wellnascimento.brito@gmail.com"><img src="https://img.shields.io/badge/Email-contact-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Wellbrito29"><img src="https://img.shields.io/badge/GitHub-Wellbrito29-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br />
 
-# 👋 Olá, eu sou Wellington Brito
+# 👋 Hi, I'm Wellington Brito
 
-**Software Engineer · Tech Lead** — São Paulo, BR
+**Software Engineer · Tech Lead** — São Paulo, BR 🇧🇷
 
 ```ts
 const wellington = {
   role: "Software Engineer / Tech Lead",
   focus: ["React Native", "Search Engineering", "Backend", "AI/ML"],
   stack: ["TypeScript", "Node.js", "NestJS", "Next.js", "Go", "Python"],
-  exploring: ["LLMs locais", "Agentes de IA", "Vector search", "Spec-Driven Dev"],
+  exploring: ["Local LLMs", "AI Agents", "Vector Search", "Spec-Driven Dev"],
   basedIn: "São Paulo · BR 🇧🇷",
+  languages: ["pt-BR (native)", "en (professional)"],
+  openTo: ["tech leadership", "search engineering", "AI/ML projects"],
 };
 ```
 
-Atuo na construção e evolução de aplicações **mobile, web e backend de grande escala**, combinando engenharia, visão de produto, qualidade técnica e observabilidade.
+I work on building and evolving **mobile, web, and large-scale backend** applications, combining engineering, product vision, technical quality, and observability.
+
+I enjoy leading teams that ship fast without losing the fundamentals: clean architecture, performance, and great developer experience. Lately I've been deep into **search relevance**, **on-device & local LLMs**, and **agentic AI** — finding the sweet spot between research and production-ready systems.
 
 ---
 
-## 🧠 Áreas de atuação
+## 🚀 What I'm up to
+
+- 🔭 **Currently building:** scalable React Native experiences and search platforms with relevance tuning end-to-end
+- 🌱 **Currently learning:** Learning to Rank, vector retrieval at scale, and orchestration of AI agents
+- 💬 **Ask me about:** React Native at scale, search engineering, observability, BFFs, design systems
+- ⚡ **Fun fact:** I love bridging product thinking with low-level performance work — from BM25 tuning to FlatList rendering
+
+---
+
+## 🧠 Areas of Expertise
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
 ### 📱 Mobile
-- React Native em escala
+- React Native at scale
 - New Architecture
-- Performance & memória
-- FlatList, renderização
-- SDKs nativas (iOS/Android)
-- Migração de versões
+- Performance & memory
+- FlatList & rendering
+- Native SDKs (iOS/Android)
+- Version migrations
 - Expo · Monorepos
-- Observabilidade mobile
+- Mobile observability
 
 </td>
 <td valign="top" width="33%">
@@ -59,9 +73,9 @@ Atuo na construção e evolução de aplicações **mobile, web e backend de gra
 - Node.js · NestJS
 - GraphQL · REST · BFF
 - Apollo Server/Client
-- Go (APIs, sistemas)
-- Logs estruturados
-- Escalabilidade
+- Go (APIs, systems)
+- Structured logging
+- Scalability
 - Design Systems
 
 </td>
@@ -73,8 +87,8 @@ Atuo na construção e evolução de aplicações **mobile, web e backend de gra
 - Vector search · Embeddings
 - Image search
 - Learning to Rank
-- LLMs locais · LoRA · GGUF
-- Agentes de IA
+- Local LLMs · LoRA · GGUF
+- AI Agents
 - Spec-Driven Development
 
 </td>
@@ -105,20 +119,29 @@ Atuo na construção e evolução de aplicações **mobile, web e backend de gra
 
 ---
 
-## 🔎 Filosofia de Search
+## 🔎 Search Philosophy
 
-> Uma boa busca precisa equilibrar:
+> A good search experience needs to balance:
 > ```
-> intenção do usuário
->   + relevância textual
->   + comportamento
->   + contexto de produto
+> user intent
+>   + textual relevance
+>   + behavior
+>   + product context
 >   + performance
 > ```
 
 ---
 
-## 🚀 Projeto em destaque
+## 🧭 How I work
+
+- **Pragmatic over dogmatic** — ship the right abstraction at the right time, not before
+- **Observability first** — if you can't measure it, you can't improve it
+- **Mentorship matters** — leveling up the team is part of the job, not a side quest
+- **Spec-driven** — clear specs unlock autonomy for both humans and AI agents
+
+---
+
+## 🚀 Featured Project
 
 <a href="https://github.com/Wellbrito29/braito">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wellbrito29&repo=braito&theme=dark&hide_border=true&title_color=7c5cff&icon_color=19c0ff&text_color=c9d1d9&bg_color=0d1117" />
@@ -148,6 +171,16 @@ Atuo na construção e evolução de aplicações **mobile, web e backend de gra
 <div align="center">
   <img src="https://github.com/Wellbrito29/Wellbrito29/raw/output/github-contribution-grid-snake.svg" />
 </div>
+
+---
+
+## 📫 Get in touch
+
+If you'd like to talk about **search**, **mobile at scale**, **AI agents**, or just say hi — I'm happy to chat.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/wellington-nascimento-de-brito-657720143)
+- ✍️ [Medium](https://medium.com/@well33488)
+- ✉️ [wellnascimento.brito@gmail.com](mailto:wellnascimento.brito@gmail.com)
 
 ---
 
