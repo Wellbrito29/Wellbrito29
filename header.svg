@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380">
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0d1117"></stop>
+    <stop offset="100%" stop-color="#0a0c10"></stop>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#7c5cff" stop-opacity="0"></stop>
+    <stop offset="50%" stop-color="#7c5cff" stop-opacity=".35"></stop>
+    <stop offset="100%" stop-color="#19c0ff" stop-opacity="0"></stop>
+  </linearGradient>
+</defs>
+
+<rect width="900" height="380" fill="url(#bg)" rx="14"></rect>
+<rect x="0" y="0" width="900" height="3" fill="url(#glow)"></rect>
+
+<rect x="0" y="0" width="900" height="40" fill="#161b22"></rect>
+<circle cx="22" cy="20" r="6" fill="#ff5f57"></circle>
+<circle cx="42" cy="20" r="6" fill="#febc2e"></circle>
+<circle cx="62" cy="20" r="6" fill="#28c840"></circle>
+<text x="450" y="25" text-anchor="middle" fill="#6e7681" font-size="12">well@github — zsh — 90×24</text>
+
+<g font-size="16" transform="translate(28,76)">
+  <text y="0"><tspan fill="#7dd3fc">well@github</tspan><tspan fill="#a5b4fc"> ~ </tspan><tspan fill="#fb923c">→ </tspan></text>
+  
+
+  <text class="r1-out" y="26" fill="#c9d1d9">Wellington Brito — Software Engineer / Tech Lead</text>
+
+  <g class="r2">
+    <text y="62"><tspan fill="#7dd3fc">well@github</tspan><tspan fill="#a5b4fc"> ~ </tspan><tspan fill="#fb923c">→ </tspan></text>
+    
+  </g>
+
+  <text class="r2-l1" y="92" fill="#8b949e"><tspan fill="#ffd700">{</tspan> <tspan fill="#79c0ff">&#34;mobile&#34;</tspan>: [<tspan fill="#a5d6ff">&#34;React Native&#34;</tspan>, <tspan fill="#a5d6ff">&#34;TypeScript&#34;</tspan>, <tspan fill="#a5d6ff">&#34;Reanimated&#34;</tspan>],</text>
+  <text class="r2-l2" y="114" fill="#8b949e">  <tspan fill="#79c0ff">&#34;backend&#34;</tspan>: [<tspan fill="#a5d6ff">&#34;Node.js&#34;</tspan>, <tspan fill="#a5d6ff">&#34;NestJS&#34;</tspan>, <tspan fill="#a5d6ff">&#34;GraphQL&#34;</tspan>, <tspan fill="#a5d6ff">&#34;Go&#34;</tspan>],</text>
+  <text class="r2-l3" y="136" fill="#8b949e">  <tspan fill="#79c0ff">&#34;search/ai&#34;</tspan>: [<tspan fill="#a5d6ff">&#34;Typesense&#34;</tspan>, <tspan fill="#a5d6ff">&#34;Algolia&#34;</tspan>, <tspan fill="#a5d6ff">&#34;LLMs&#34;</tspan>, <tspan fill="#a5d6ff">&#34;Embeddings&#34;</tspan>] <tspan fill="#ffd700">}</tspan></text>
+
+  <g class="r3">
+    <text y="174"><tspan fill="#7dd3fc">well@github</tspan><tspan fill="#a5b4fc"> ~ </tspan><tspan fill="#fb923c">→ </tspan></text>
+    
+  </g>
+
+  <g class="r3-cards">
+    <rect x="0" y="190" width="170" height="32" rx="6" fill="#161b22" stroke="#30363d"></rect>
+    <text x="14" y="211" fill="#7ee787">mobile-scale/</text>
+
+    <rect x="186" y="190" width="170" height="32" rx="6" fill="#161b22" stroke="#30363d"></rect>
+    <text x="200" y="211" fill="#7ee787">search-engine/</text>
+
+    <rect x="372" y="190" width="170" height="32" rx="6" fill="#161b22" stroke="#30363d"></rect>
+    <text x="386" y="211" fill="#7ee787">backend-bff/</text>
+
+    <rect x="558" y="190" width="170" height="32" rx="6" fill="#161b22" stroke="#30363d"></rect>
+    <text x="572" y="211" fill="#7ee787">ai-agents/</text>
+  </g>
+
+  <g class="r4">
+    <text y="256"><tspan fill="#7dd3fc">well@github</tspan><tspan fill="#a5b4fc"> ~ </tspan><tspan fill="#fb923c">→ </tspan></text>
+    <rect class="caret" x="135" y="241" width="10" height="18" fill="#7dd3fc"></rect>
+  </g>
+
+  <rect class="scanline" x="-28" y="0" width="900" height="2" fill="#7c5cff" opacity="0.12"></rect>
+</g>
+</svg>
