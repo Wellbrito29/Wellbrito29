@@ -4,12 +4,6 @@
 -->
 
 <div align="center">
-  <img src="./header.svg" alt="Wellington Brito — AI & Agents" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
   <a href="https://www.linkedin.com/in/wellington-brito-657720143"><img src="https://img.shields.io/badge/LinkedIn-Wellington_Brito-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@well33488"><img src="https://img.shields.io/badge/Medium-@well33488-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="mailto:well33488@gmail.com"><img src="https://img.shields.io/badge/Email-well33488-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
